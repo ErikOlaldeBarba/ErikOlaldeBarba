@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Link for navigate to my web page:
+https://erikolaldebarba.github.io/ErikOlaldeBarba/
