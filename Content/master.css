@@ -86,7 +86,7 @@ h2 {
 .encabezado {
     position: relative;
     /*background-image: url(http://erikolalde.com/img/paisaje.jpg);*/
-    background-image: url(http://erikolalde.com/img/city.jpg);
+    background-image: url(../img/city.jpg);
     background-attachment: fixed;
     background-size: 100% 100%;
     background-position: 0 -80px;
